@@ -14,3 +14,5 @@ I am deeply passionate about programming and design, and am fascinated by the cr
 * 🤝  I'm open to collaborating on web app projects
 * 👀  I’m looking for help in finding project ideas that can improve my coding skills
 * 😄  Pronouns: she/her/hers
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcarminati&layout=compact)
