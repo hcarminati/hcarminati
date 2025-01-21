@@ -9,7 +9,7 @@ I've been learning to code for two years now. I am currently on Co-op as a Full 
 I am deeply passionate about programming and design, and am fascinated by the creativity and problem-solving that comes into play in both fields individually and as a pair.
 
 * 🌍  I'm based in Boston, MA 
-* 🚀  I'm currently working on [[Personal Brand](https://github.com/hcarminati/pet-match-web-app)](https://github.com/hcarminati/heather-personal-brand)
+* 🚀  I'm currently working on [Personal Brand](https://github.com/hcarminati/pet-match-web-app)
 * 🧠  I'm learning everything Full-Stack 
 * 🤝  I'm open to collaborating on web app projects
 * 👀  I’m looking for help in finding project ideas that can improve my coding skills
