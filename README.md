@@ -4,8 +4,8 @@ I'm Heather. A designer who codes. Coder who designs.
 
 ```
 🎯 MS CS @ Northeastern · CS Fellow @ Northeastern · SWE @ MITRE · Building my personal_website
-📍 BS in CS + Design @ Northeastern · Previously: CarGurus, STR
-☕ Boston, MA
+☕ BS in CS + Design @ Northeastern · Previously: CarGurus, STR
+📍 Boston, MA
 ✨ she/her
 ```
 
