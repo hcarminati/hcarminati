@@ -1,18 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Heather Carminati
-=========================================================================================================================================
+# hello, world
 
-Computer Science and Design major at Northeastern University 
-------------------------------------------------------------
+I'm Heather. A designer who codes. Coder who designs.
 
-I've been learning to code for two years now. I am currently on Co-op as a Full Stack Developer at CarGurus and am pursuing a Bachelor's in Computer Science and Design. 
+```
+🎯 MS CS @ Northeastern · CS Fellow @ Northeastern · SWE @ MITRE · Building my personal_website
+📍 BS in CS + Design @ Northeastern · Previously: CarGurus, STR
+☕ Boston, MA
+✨ she/her
+```
 
-I am deeply passionate about programming and design, and am fascinated by the creativity and problem-solving that comes into play in both fields individually and as a pair.
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
-* 🌍  I'm based in Boston, MA 
-* 🚀  I'm currently working on [Personal Brand](https://github.com/hcarminati/pet-match-web-app)
-* 🧠  I'm learning everything Full-Stack 
-* 🤝  I'm open to collaborating on web app projects
-* 👀  I’m looking for help in finding project ideas that can improve my coding skills
-* 😄  Pronouns: she/her/hers
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcarminati&layout=compact)
+[linkedin](https://www.linkedin.com/in/hcarminati) · [say hi](hscarminati@hotmail.com)
