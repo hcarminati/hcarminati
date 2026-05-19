@@ -3,7 +3,7 @@
 I'm Heather. A designer who codes. Coder who designs.
 
 ```
-🎯 MS CS @ Northeastern · CS Fellow @ Northeastern · SWE @ CarGurus · Building my personal_website
+🎯 SWE @ CarGurus · Building my personal_website
 ☕ BS in CS + Design @ Northeastern · Previously: CarGurus, STR
 📍 Boston, MA
 ✨ she/her
