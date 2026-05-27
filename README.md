@@ -1,10 +1,8 @@
 # hello, world
 
-I'm Heather. A designer who codes. Coder who designs.
-
 ```
 🎯 SWE @ CarGurus · Building my personal_website
-☕ BS in CS + Design @ Northeastern · Previously: CarGurus, STR
+🎓 MS in CS · BS in CS + Design @ Northeastern
 📍 Boston, MA
 ✨ she/her
 ```
@@ -15,4 +13,4 @@ I'm Heather. A designer who codes. Coder who designs.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
-[linkedin](https://www.linkedin.com/in/hcarminati) · [say hi](hscarminati@hotmail.com)
+[linkedin](https://www.linkedin.com/in/hcarminati) · [say hi](mailto:hcarminati@hotmail.com)
